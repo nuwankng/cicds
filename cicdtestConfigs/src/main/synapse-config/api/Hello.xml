@@ -4,7 +4,7 @@
         <inSequence>
             <payloadFactory media-type="json">
                 <format>{
-"hello":"boyyyyx"
+"hello":"boyyyyxds"
 }</format>
                 <args/>
             </payloadFactory>
