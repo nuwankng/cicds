@@ -9,7 +9,6 @@
   <name>cicdtest</name>
   <description>cicdtest</description>
   <modules>
-    <module>cicdtestRegistryResources</module>
     <module>cicdtestConnectorExporter</module>
     <module>cicdtestConfigs</module>
     <module>cicdtestCompositeExporter</module>
